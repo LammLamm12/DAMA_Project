@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DAMA_Project1</string>
+    <string name="intro">List of books.</string>
+    <string name="button">Search</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="author">Name</string>
+    <string name="author1">By:</string>
+    <string name="description">Description</string>
+    <string name="toast1">Enter a search name.</string>
+    <string name="connection">No internet connection.</string>
+    <string name="no_books">No books found.</string>
+    <string name="book_cover">Book Cover</string>
+
+
+</resources>
